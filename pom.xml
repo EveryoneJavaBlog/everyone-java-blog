@@ -60,7 +60,7 @@
         <commons.io.version>2.2</commons.io.version>
         <aspectjweaver.version>1.8.8</aspectjweaver.version>
         <mysql.version>5.1.34</mysql.version>
-        <shiro.version>1.2.4</shiro.version>
+        <shiro.version>1.6.0</shiro.version>
         <mockito.version>1.10.19</mockito.version>
         <derby.version>10.7.1.1</derby.version>
         <jackson.version>2.2.3</jackson.version>
